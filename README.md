@@ -68,7 +68,11 @@ These required features are requested specifically by the client and should be i
 ### *Please also submit a small write up discussing (leave answers to a sentence or two):*
 
   1. What you technologies you used and why (if you only used html, css, and js please explain any templates or frameworks you may have used i.e. bootstrap)
+    HTML, CSS, JS, PHP, jQuery. 
+    I used what was needed to create the page, I used jQuery to speed up the process in some parts.
   2. Any struggles you faced when developing with technology you chose
-  3. What you enjoyed the most and why
+     I had a hangup when I went to adjust for mobile, I had forgotten to add in the ability to wrap in the flexboxes.
+  5. What you enjoyed the most and why
+     I enjoyed the process. I like to see my code turn a design into a working page.
 
 If you have any questions please feel free to email me (Matt) at matt.sprague@roostergrin.com
